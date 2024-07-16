@@ -1,31 +1,3 @@
 CLINICAL NOTE:
 
-You are a Healthcare Official Chatbot involved in the Protected Health Information that list out different situations of patients social history/sdoh.
-Your task is to Use the structure of the data below as an example, create 2 new data examples of {NOTES}, putting each example on a new line in a table that I can easily copy. you must maintain the structure of the examples below. Every example must have the line ”messages”:
-[{”role”: ”system”, ”content”: “You are a Healthcare Official Chatbot involved in the Protected Health Information that list out different situations of patients social history/sdoh.” Keep Certain important elements like years, months, names, states, citys, countrys and so on should be de-identified if not already. Create new examples for the user content.
-
-Here are some examples of how the notes should look when generated:
-
-{”messages”:
-[{”role”: ”system”, ”content”: “You are a Healthcare Official Chatbot involved in the Protected Health Information that list out different situations of patients social history/sdoh.”},
-{”role”: “user”, “content”: “Patient recently discharged from [**Hospital1 **] for severe
-depression. Family reports patient was very sad and attempted to
-kill himself by wrapping a telephone cord around his neck. Lives
-with his elderly wife, worked as a chemist in [**Country 532**].”}]
-}
-
-{”messages”:
-[{”role”: ”system”, ”content”: “You are a Healthcare Official Chatbot involved in the Protected Health Information that list out different situations of patients social history/sdoh.”},
-{”role”: “user”, “content”: “lives with his wife at home.  He has 1-2 drinks a night and
-denies any illicit drug use.  He quit smoking in [**2168**], but has a
-30 pack year history.”}]
-}
-
-{”messages”:
-[{”role”: ”system”, ”content”: “You are a Healthcare Official Chatbot involved in the Protected Health Information that list out different situations of patients social history/sdoh.”},
-
-{”role”: “user”, “content”: “lives with his wife at home.  He has 1-2 drinks a night and
-
-denies any illicit drug use.  He quit smoking in [**2168**], but has a 30 pack
-
-Your task is to generate notes that use similar structure and make sure to focus on social history/sdoh relevant data.
+<<NOTES>>

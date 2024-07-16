@@ -1,28 +1,18 @@
-Your task is to Use the structure of the data below as an example, create 2 new data examples of {NOTES}, putting each example on a new line in a table that I can easily copy. you must maintain the structure of the examples below. Every example must have the line ”messages”:
-[{”role”: ”system”, ”content”: “You are a Healthcare Official Chatbot involved in the Protected Health Information that list out different situations of patients social history/sdoh.” Keep Certain important elements like years, months, names, states, citys, countrys and so on should be de-identified if not already. Create new examples for the user content.
+Your task is to Use the structure of the data below as an example, create 2 new data examples of {NOTES}, you must maintain the structure of the examples below.  Keep Certain important elements like years, months, names, states, citys, countrys and so on should be de-identified if not already. Create new examples for the user content.
 
 Here are some examples of how the notes should look when generated:
 
-{”messages”:
-[{”role”: ”system”, ”content”: “You are a Healthcare Official Chatbot involved in the Protected Health Information that list out different situations of patients social history/sdoh.”},
-{”role”: “user”, “content”: “Patient recently discharged from [**Hospital1 **] for severe
+“Patient recently discharged from [**Hospital1 **] for severe
 depression. Family reports patient was very sad and attempted to
 kill himself by wrapping a telephone cord around his neck. Lives
-with his elderly wife, worked as a chemist in [**Country 532**].”}]
-}
+with his elderly wife, worked as a chemist in [**Country 532**].”
 
-{”messages”:
-[{”role”: ”system”, ”content”: “You are a Healthcare Official Chatbot involved in the Protected Health Information that list out different situations of patients social history/sdoh.”},
-{”role”: “user”, “content”: “lives with his wife at home.  He has 1-2 drinks a night and
+“lives with his wife at home.  He has 1-2 drinks a night and
 denies any illicit drug use.  He quit smoking in [**2168**], but has a
-30 pack year history.”}]
-}
+30 pack year history.”
 
-{”messages”:
-[{”role”: ”system”, ”content”: “You are a Healthcare Official Chatbot involved in the Protected Health Information that list out different situations of patients social history/sdoh.”},
-{”role”: “user”, “content”: “Lives in [**Location 4288**] with his wife and son.  Significant 30+ pack
+ “Lives in [**Location 4288**] with his wife and son.  Significant 30+ pack
 year history, quit 3 months ago.  No alcohol use.  Emigrated to
-the U.S. in the [2093], worked in [**Location (un) 86**] shipyards for 30 years.”}]
-}
+the U.S. in the [2093], worked in [**Location (un) 86**] shipyards for 30 years.”
 
 Create a NOTE that are similar to the ones above make sure to (just create the note):

@@ -1,0 +1,285 @@
+Generate a synthetic social history note about individual patients, each with a unique social situation and demographic characteristics. The notes should be very similar in style, tone, and structure to the following examples:
+
+
+
+The patient is married and worked as a clinical
+psychologist. Her husband is a pediatric neurologist at
+[**Hospital3 **]. They have several children, one of which is
+
+a nurse.
+
+
+The patient is married and worked as a clinical
+psychologist. Her husband is a pediatric neurologist at
+[**Hospital3 **]. They have several children, one of which is
+a nurse. [**First Name (Titles) 1817**] [**Last Name (Titles) 1818**] with 40 pack years, quit 5 years ago.
+Social ethanol user. No history of IVDU, but remote history of
+marijuana use.
+
+
+
+Patient recently discharged from [**Hospital1 **] for severe
+depression. Family reports patient was very sad and attempted to
+kill himself by wrapping a telephone cord around his neck. Lives
+with his elderly wife, worked as a chemist in [**Country 532**].
+
+
+She is married.  She had smoked for approximately a year and a
+half when she was younger, but is not currently smoking.  She
+has approximately one glass of wine per week.  She is retired
+but was employed as a teacher.
+
+
+
+The patient has been in rehab for the past month. She used to
+live alone, but has 2 grown daughters living nearby who are
+involved. They are at the bedside and actively disagreeing about
+the patient's code status and what their mothers's goals of care
+are. It is unclear if either are HCPs.
+
+
+
+
+Lives with his wife.  Retired, works parttime
+driving a school bus.
+
+
+
+
+NC
+
+
+Married. Lives with husband.
+
+
+
+Social history is significant for the absence of current tobacco
+use. There is no history of alcohol abuse.
+
+
+
+
+
+living alone independently prior to last hospitalization.
+Several children and grandchildren in the area who are involved
+in her care.  denies alcohol or tobacco use.
+
+
+
+
+
+Pt was most recently living at [**Hospital1 **].  He has a girlfriend.
+[**Name (NI) **] denies tobacco, EtOH, and current drug use/abuse.  He is in a
+methadone program because of past IVDU.
+
+
+
+
+Lives alone in [**Location (un) 2268**], but has stayed with her sister recently
+[**1-1**] difficulty walking up stairs to her apt.  Remote smoking and
+EtOH history, pt unable to quantify. Denies IVDU.
+
+
+-Former tobacco [**12-1**] pack per day x 25 years
+-Previous alcohol use: quit 2 years ago
+-Denies recreational drug use or other toxic habits
+-Lives alone. Is able to complete her ADLs.
+
+
+Married for 46 years and lives with wife.  3 children who all
+live in area.  No tobocco, h/o occasional ETOH, stopped drinking
+in [**11-13**], denies h/o ETOH abuse.  No illicit drugs.
+
+
+
+
+Married for 46 years and lives with wife.  3 children who all
+live in area.  No tobocco, h/o occasional ETOH, stopped drinking
+in [**11-13**], denies h/o ETOH abuse.  No illicit drugs.
+
+
+
+Married for 46 years and lives with wife.  3 children who all
+live in area.  No tobocco, h/o occasional ETOH, stopped drinking
+in [**11-13**], denies h/o ETOH abuse.  No illicit drugs.
+
+
+
+
+
+She works for the [**Company 2318**], currently as a ticket collector. She
+lives with her 2 daughters and her boyfriend of 4 years sleeps
+over often.  For the last 1.5 years patient has been drinking a
+pint of [**Doctor Last Name **]-[**Doctor Last Name **] (cognac) and a 6 pack of Corona over the
+course of 2 days, every day.  While she was drinking she would
+smoke 3 cigarettes per day.  She abruptly quit both drinking and
+smoking 6 weeks PTA, and reports that ""[**Doctor Last Name 2319**] finally gave me the
+strength to do it"".
+
+
+
+Lives with sister, smokes 1/2-1ppd for the past 40 years, drinks
+on occasion, denies drugs. She was flight attendent for US Air.
+
+
+
+
+A retired anesthesiologist, worked in pain management. Denies
+tobacco, drugs. Bottle of wine per week.
+
+
+
+
+
+Prior tobacco history over twenty years ago. She denies any
+alcohol use. She
+lives with her daughter, [**Name (NI) **] [**Name (NI) 46**], who is her health
+care proxy. The patient is full code. Primary care physician is
+[**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1683**].
+
+
+
+The patient lives with her daughter.  She is able to perform
+most of her ADLs on her own.  60 py smoking history but quit 20
+yrs ago.  She has a caretaker/friend who comes to the house to
+help once a week.
+
+
+
+Pt lives alone, formed smoker 1ppd has cut down significantly
+since lung operations, but smoked for 40 years 1ppd, still
+smokes a cigarette ocasionally, no EtOH. No IVDA.
+
+
+
+
+Lives at home with health care aide.  Son [**Name (NI) **] very involved in
+her care.  Three children. No tobacco, alcohol, and illicit drug
+use.
+
+
+lives with uncle and sister, on disability for cirrhosis, used
+to work as nurse's aide; drinks [**11-27**] pint gin per day x40y, even
+heavier EtOH use in the past, last in [**Month (only) **]; 20 pack-yr history
+of tobacco abuse; denies IVDU
+
+
+
+
+
+He has a history of polysubstance abuse, abusing both
+intravenous and intranasal heroin, as well as cocaine. He has
+been on a methadone maintenance program. He has a history of
+multiple suicide attempts, including an overdose of zyprexa. He
+has been incarcereated twice. He has a history of alcohol abuse
+and marijuana and tobacco use.
+
+
+
+
+ Lives with his partner (male). Retired budjet analyst
+for park service. Has history of alchoholism, quit for 20 yrs,
+then starting drinking again when he retired, but much less.
+Drinks 2-3 glasses burbon daily, more when with friends. Starts
+drinking around 5pm. Former smoker, >50 pack years, quit 1.5
+years ago. No illicits
+.
+
+
+
+
+Married, no children. He works for [**Company 2475**]. Previously he worked
+in a printing company where he reports that he was exposed to
+fumes and did not wear a mask.
+Tobacco:  Quit.
+Alcohol:  Two glasses of wine per night and 3 bottles over the
+weekend.
+Drugs:  None.
+
+
+Pt lives alone.  His only child is the son who died in the war.
+He is [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] at [**Company 2486**].
+.
+Tobacco:  quit 4 years ago, 10 year pack history
+ETOH:  as above
+Recreational drugs:  denied use, inc. IVDA
+
+
+
+Russian-speaking.  Living alone independently prior to
+hospitalization in 2/[**2192**].  Several children and grandchildren
+in the area are involved in her care.
+denies alcohol or tobacco use.
+
+
+Also, 
+
+When creating the note, create them according to these real notes from the MIMIC-III dataset. Make sure when generating the note to NOT please under any circumstance do NOT include the words "Social History:" in the generated note.
+
+When creating the note, just 1 note, there should be more than one patient being described. For example this would be a note that I WOULD want you to generate:
+
+    she lives alone, cooks for herself, and uses a walker around the home. she is a non-smoker and occasionally drinks a glass of wine with dinner. she was never married, and her nieces ([**known firstname **] [**last name (namepattern1) 89435**] and [**first name8 (namepattern2) 717**] [**last name (namepattern1) **]) are her closest relatives.
+
+
+Its good because its only describing one patient and only includes the info the same as the clinical notes that I showed for examples.
+
+DO NOT generate anything like this:
+
+    a very young individual with a heavy history of alcohol abuse.\n\nShe was a social epidemiologist at [**Country 532**].\n\nWhile she was at the hospital, she was involved in a\n\nprostitution ring run by [**Country 532**] [**State 532**].\n\n\nSocial History:\n\nShe was married.  She had an 8-year-old\n\ndaughter and 2 grandchildren.\n\n\nSocial History:\n\nPatient is living with her own family. \n\nShe is a retired nurse with 5 children.\n\n\nSocial History:\n\nShe was married. \n\nHer daughter was a nurse.\n\n\nSocial History:\n\nPatient and her family.\n\nThe family is engaged in a business, but does not\n\nhave any involvement in the industry.\n\nThey have been married for almost 15 years and live in the\n\nfamily home.\n\n\nSocial History:"
+
+This example is not good because one, it describes more than one patient and two it includes, "Social History:". 
+
+
+
+
+Also when generating make sure to use these as your chunks for the data, only thing you can change around are the numbers but for a note the numbers should be the same: 
+
+
+[**Hospital2 **]
+[**Country 532**]
+[**Name (NI) **]
+[**known firstname **] 
+[**last name (namepattern1) 89435**] 
+[**first name8 (namepattern2) 717**] 
+[**last name (namepattern1) **]
+[**2192**]
+[**Initials (NamePattern4) **] 
+[**Last Name (NamePattern4) **] 
+[**Company 2486**].
+[**Month (only) **]
+[**Doctor Last Name **]-[**Doctor Last Name **]
+[**Location (un) 2268**]
+[**Place of Living **]
+[**First Name (Titles) 1818**]
+[**Last Name (Titles) 1818**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
